@@ -1,17 +1,1 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>足球直播 iframe</title>
-  </head>
-  <body>
-    <h2>嵌入足球直播</h2>
-    <iframe 
-      src="https://stream.sportsrs.live/live/football?token=1ergh2k3du0ude4u1r1rj5r6dwh7"
-      width="1000"
-      height="1000"
-      frameborder="0"
-      allowfullscreen
-      allow="autoplay">
-    </iframe>
-  </body>
-</html>
+
