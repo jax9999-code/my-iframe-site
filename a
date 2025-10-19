@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>足球直播 iframe</title>
+</head>
+<body>
+  <h2>嵌入足球直播</h2>
+  <iframe 
+    src="https://stream.raysports.live/en/football?token=1eryohk93c2udqw&uuid=1l4rjnh96w50m7v" 
+    width="100%" 
+    height="600" 
+    frameborder="0" 
+    allowfullscreen>
+  </iframe>
+</body>
+</html>
